@@ -1,0 +1,14 @@
+{
+  "name": "dj-audio-api",
+  "version": "1.0.0",
+  "description": "Externe Audio/YouTube API für FiveM DJ Script",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
